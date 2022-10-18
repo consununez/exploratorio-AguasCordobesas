@@ -1,7 +1,7 @@
 ## Proyecto
 
 Análisis exploratorio de datos de empresa prestadora de servicio de agua de la ciudad de Córdoba. 
-Trabajo realizado en una notebook de Python, para la materia "Herramientas para análisis de datos" de la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios, dictada por FAMAF. 
+Trabajo realizado en una notebook de Python, para la Diplomatura en Ciencia de Datos e Inteligencia Artificial dictada por FAMAF.
 
 
 ### Objetivos
