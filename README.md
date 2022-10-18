@@ -1,7 +1,7 @@
 # Proyecto
 
-Análisis exploratorio de datos de empresa prestadora de servicio de agua de la ciudad de Córdoba.
-Trabajo realizado en una notebook de Python, para la materia "Herramientas para análisis de datos" de la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios, dictada por FAMAF.
+Análisis exploratorio de datos de empresa prestadora de servicio de agua de la ciudad de Córdoba. 
+Trabajo realizado en una notebook de Python, para la materia "Herramientas para análisis de datos" de la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios, dictada por FAMAF. 
 
 
 # Objetivos
@@ -12,7 +12,7 @@ se propone analizar el consumo de agua potable de los usuarios residenciales (pe
 
 # Conclusiones
 
-Se observó que la media del consumo promedio diario de agua por unidad para el año 5 (2017) fue de 0,6 m3/unidad/d.
+Se observó que la media del consumo promedio diario de agua por unidad para el úñtimo año del cual se disponen datos (2017) fue de 0,6 m3/unidad/d.
 
 Se observó que el consumo de agua potable de los usuarios medidos, con servicio habilitado y tipo residencial es influenciado por:
 
