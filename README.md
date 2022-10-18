@@ -1,14 +1,13 @@
 # Proyecto
 
-Proyecto de análisis exploratorio de datos de un dataset de empresa prestadora de servicio de agua de la ciudad de Córdoba.
-Trabajo realizado en una notebook de Python, para la materia "Herramientas para análisis de datos" de la Diplomatura en Ciencia de Datos dictada por Famaf.  
+Análisis exploratorio de datos de empresa prestadora de servicio de agua de la ciudad de Córdoba.
+Trabajo realizado en una notebook de Python, para la materia "Herramientas para análisis de datos" de la Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus aplicaciones en Economía y Negocios, dictada por FAMAF.
 
 
 # Objetivos
 
 A partir del análisis exploratorio de la base de datos de los clientes de la empresa que suministra el servicio de agua, 
-se propone analizar el consumo de agua potable de los usuarios residenciales (pertenecientes al parque medido y que se encuentren con el servicio habilitado) de la Ciudad de Córdoba y 
-observar si el mismo está influenciado por el nivel socioeconómico dado por la clasificación zonal que emplea la empresa y por alguna característica del tipo de inmueble.
+se propone analizar el consumo de agua potable de los usuarios residenciales (pertenecientes al parque medido y que se encuentren con el servicio habilitado) de la Ciudad de Córdoba y observar si el mismo está influenciado por el nivel socioeconómico dado por la clasificación zonal que emplea la empresa y por alguna característica del tipo de inmueble.
 
 
 # Conclusiones
